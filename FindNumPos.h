@@ -1,5 +1,5 @@
 //
-// Created by XaveF on 8/16/2022.
+// Created by Fransiskus Agapa on 8/16/2022.
 //
 
 #ifndef SUMTWODIGITSEQUALN_FINDNUMPOS_H
