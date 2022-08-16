@@ -92,10 +92,6 @@ int main()
     {
         cout << "\n== Exit Program ==" << endl;
     }
-//    cout << "\nInput a result number: ";
-//    cin >> userNum;
-//
-//    findNumber(randNumber, sizeArr,userNum);
 
     return 0;
 }
